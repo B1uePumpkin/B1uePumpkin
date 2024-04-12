@@ -7,6 +7,8 @@ I'm researching and learning programing now.
 
 ![B1uePumpkin's GitHub stats](https://github-readme-stats.vercel.app/api?username=B1uePumpkin&theme=holi&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B1uePumpkin)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Skills
 
