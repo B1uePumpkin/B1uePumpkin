@@ -2,6 +2,9 @@
 ## a student from FJU
 I'm researching and learning programing now.
 
+- 📬yuhaodai920404@gmail.com
+
+
 ![B1uePumpkin's GitHub stats](https://github-readme-stats.vercel.app/api?username=B1uePumpkin&theme=holi&show_icons=true)
 
 
