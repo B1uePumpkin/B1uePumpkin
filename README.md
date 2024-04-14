@@ -5,9 +5,21 @@ I'm researching and learning programing now.
 - 📬yuhaodai920404@gmail.com
 
 
-![B1uePumpkin's GitHub stats](https://github-readme-stats.vercel.app/api?username=B1uePumpkin&theme=holi&show_icons=true)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/B1uePumpkin">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B1uePumpkin" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=B1uePumpkin&theme=holi&show_icons=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B1uePumpkin)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Skills
