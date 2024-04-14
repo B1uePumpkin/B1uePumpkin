@@ -9,11 +9,11 @@ I'm researching and learning programing now.
   <tr>
     <td>
       <a href="https://github.com/B1uePumpkin">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B1uePumpkin" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B1uePumpkin&layout=compact" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <a href="https://github.com/B1uePumpkin">
         <img src="https://github-readme-stats.vercel.app/api?username=B1uePumpkin&theme=holi&show_icons=true" />
       </a>
     </td>
